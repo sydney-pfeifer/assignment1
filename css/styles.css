@@ -1,3 +1,8 @@
- a {
-            font-family: fantasy;
-        } 
+html {
+    color: chocolate
+}
+
+a {
+    font-family: fantasy;
+    color: darkorchid
+}
